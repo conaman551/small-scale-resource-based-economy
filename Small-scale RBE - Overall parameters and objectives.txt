@@ -1,0 +1,28 @@
+﻿Objective:
+
+
+Build an archetypal, small-scale resource based community / town, with optimised self-reliance, factoring in housing, food, education, goods production, energy, recreation and personal growth.
+
+
+Base parameters. 
+
+
+Capacity: 150 people, a realistic size given limited money and resources
+
+
+Architecture: Circular and Hexagonal,  most efficient shapes for a settlement
+
+
+Area: 200 acres minimum. 
+
+
+External Economy: Monetary
+
+
+Internal Economy: Resource Based
+
+
+Construction Method: Phased, 6 segments equal in area will make up the entire town, only one segment needs to be built at a time because each segment is self-sufficient.
+
+
+Energy: Solar and Wind
